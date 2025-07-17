@@ -1,8 +1,8 @@
 -----
 
-# ask\_pdf\_ai
+# ASK\_PDF\_AI
 
-Ask\_PDF\_AI is a powerful and intelligent assistant that allows you to chat with your PDF documents. Powered by Google's **Gemini AI** and **ChromaDB**, this tool extracts information from your PDFs, creates semantic chunks, and provides accurate answers to your questions based on the document's content.
+ASK\_PDF\_AI is a powerful and intelligent assistant that allows you to chat with your PDF documents. Powered by Google's **Gemini AI** and **ChromaDB**, this tool extracts information from your PDFs, creates semantic chunks, and provides accurate answers to your questions based on the document's content.
 
 -----
 
